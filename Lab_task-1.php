@@ -30,12 +30,12 @@
 
     <b>Age:</b>
     <br>
-    <input type="text">
+    <input type="number">
     <br>
     <br>
     <b>Phone Number:</b>
     <br>
-    <input type="text">
+    <input type="number">
     <br>
     <br>
     <b>Email Address:</b>
@@ -56,7 +56,8 @@
     <br>
     <b>Insurance Policy Number:</b>
     <br>
-    <input type="text">
+    <input type="radio" name="lang">BBL
+    <input type="radio" name="lang">DBL
 
     <center>
     <h2 style="color:blueviolet">Additional Information</h2>
